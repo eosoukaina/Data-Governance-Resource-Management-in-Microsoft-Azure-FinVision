@@ -240,6 +240,16 @@ RBAC Assignments:
 - [ ] Logic Apps for fraud notification (>$1000)
 - [ ] ServiceNow integration for incidents
 
+---
+
+## 👥 Team
+
+### Project Contributors
+
+| Name | Role | Contributions |
+|------|------|---------------|
+| **Soukaina El Hadifi** | Data Engineer |
+| **Mohamed-Saber El Guelta** | Data Engineer |
 
 ---
 
@@ -247,11 +257,14 @@ RBAC Assignments:
 
 For questions or collaboration opportunities:
 
-📧 **Email:** elhadifi.soukaina@gmail.com  
-💼 **LinkedIn:** [Soukaina Elhadifi](https://linkedin.com/in/soukaina-elhadifi)
-🐙 **GitHub:** [@eosoukaina](https://github.com/eosoukaina)     
-
-
+- 📧 **Email:** elhadifi.soukaina@gmail.com  
+- 💼 **LinkedIn:** [Soukaina Elhadifi](https://linkedin.com/in/soukaina-elhadifi)
+- 🐙 **GitHub:** [@eosoukaina](https://github.com/eosoukaina)     
 
 ---
+
+<div align="center">
+⭐ If you found this project helpful, please consider giving it a star!
+Made with ❤️ by the FinVision Team | 2025
+</div>
 
