@@ -224,8 +224,6 @@ RBAC Assignments:
 
 ## 🔮 Future Enhancements
 
-### Short-term 
-
 #### Analytics & BI
 - [ ] Power BI dashboards (Fraud Analytics, Transactions, Clients)
 - [ ] Real-time monitoring with Power BI streaming
@@ -248,6 +246,10 @@ RBAC Assignments:
 ##  Contact
 
 For questions or collaboration opportunities:
+
+📧 **Email:** elhadifi.soukaina@gmail.com  
+💼 **LinkedIn:** [Soukaina Elhadifi](https://linkedin.com/in/soukaina-elhadifi)
+🐙 **GitHub:** [@eosoukaina](https://github.com/eosoukaina)     
 
 
 
