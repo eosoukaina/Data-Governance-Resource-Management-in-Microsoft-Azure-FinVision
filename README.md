@@ -254,6 +254,6 @@ For questions or collaboration opportunities:
 
 <div align="center">
 ⭐ If you found this project helpful, please consider giving it a star!
-Made with ❤️ by the FinVision Team | 2025
+Made with ❤️ by El Hadifi | 2025
 </div>
 
