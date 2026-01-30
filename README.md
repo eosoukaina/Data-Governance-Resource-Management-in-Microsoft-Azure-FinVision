@@ -242,17 +242,6 @@ RBAC Assignments:
 
 ---
 
-## 👥 Team
-
-### Project Contributors
-
-| Name | Role | Contributions |
-|------|------|---------------|
-| **Soukaina El Hadifi** | Data Engineer |
-| **Mohamed-Saber El Guelta** | Data Engineer |
-
----
-
 ##  Contact
 
 For questions or collaboration opportunities:
